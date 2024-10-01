@@ -2,4 +2,4 @@ name = "workers-demo-1"
 main = "src/index.js"
 compatibility_date = "2022-05-06"
 account_id = "241b2a2350cf015c091f13a3cd5ce1a0"
-site = { bucket = "./public" }
+# site = { bucket = "./public" }
