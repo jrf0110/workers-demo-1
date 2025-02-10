@@ -3,3 +3,6 @@ main = "src/index.js"
 compatibility_date = "2022-05-06"
 account_id = "55ab90f8730f00908445162b0dc80109"
 # site = { bucket = "./public" }
+
+[[r2_buckets]]
+binding = "R2"
